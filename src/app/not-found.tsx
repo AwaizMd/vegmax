@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function NotFound(){return <div className="container page-section empty-state"><p className="eyebrow">404 · A LITTLE OFF THE BEATEN PATH</p><h1>This ingredient<br/><em>isn’t on the page.</em></h1><p>Explore the catalogue or head back home to find something fresh.</p><Link className="button primary" href="/products/">Explore products</Link><Link className="text-link" href="/">Back to home</Link></div>;}
