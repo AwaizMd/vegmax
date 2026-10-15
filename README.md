@@ -97,4 +97,4 @@ Fraunces and Manrope are locally hosted under SIL Open Font License 1.1; licence
 
 The bulk form stores no personal data in local storage and provides validation, a message preview, and copy functionality. Sending happens in WhatsApp. Core catalogue content is build-rendered HTML; mobile navigation, filtering, and enquiry building use small client components. GSAP, CSS, and the adapted accordion implement reduced-motion support.
 
-No Lighthouse score, production deployment, real-device performance result, test phone call, or sent WhatsApp message is claimed. Final browser verification results are recorded in `VERIFICATION.md`.
+The site is configured for GitHub Pages deployment at https://awaizmd.github.io/vegmax/. No Lighthouse score, real-device performance result, test phone call, or sent WhatsApp message is claimed. Final browser verification results are recorded in `VERIFICATION.md`.

@@ -19,7 +19,7 @@ Limitations:
 
 - Browser automation could not acquire access to the local preview due to the browser URL policy. No alternate browser control or policy bypass was attempted. This update has not received a fresh interactive browser or responsive visual pass; the existing responsive layouts are retained, with styles added for photo galleries, contact details, and the opening-hours strip.
 - No phone calls or WhatsApp messages were sent. Link destinations and message contents were verified in the exported HTML and message-generation functions.
-- No production deployment or Lighthouse score is claimed. The domain and owner cross-check of the supplied Maps listing remain pending; preview indexing protection is retained.
+- No Lighthouse score is claimed. The owner cross-check of the supplied Maps listing remains pending; preview indexing protection is retained.
 
 ## GitHub Pages deployment preparation
 
@@ -29,4 +29,4 @@ Limitations:
 - The workflow builds and runs the export checks before deployment. Export checks resolve all local page, image, script, and font references after removing the configured hosting prefix.
 - Canonical and WhatsApp product URLs are supplied via `NEXT_PUBLIC_SITE_URL`. Search indexing remains disabled until the Maps check is completed.
 - The GitHub Pages build passed locally, including the full export verification under `/vegmax/`.
-- Publishing is currently blocked: local Git's `AwaizMd` account was denied push access (HTTP 403), and the connected GitHub integration rejected Contents writes with `Resource not accessible by integration` (HTTP 403). No remote source commit or deployment is claimed.
+- Source is pushed to `https://github.com/AwaizMd/vegmax` and GitHub Pages is configured with HTTPS and GitHub Actions as its build source. Deployment target: `https://awaizmd.github.io/vegmax/`. The workflow must pass build and export verification before publishing.
