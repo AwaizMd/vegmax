@@ -28,3 +28,5 @@ Limitations:
 - Preserved root-path local development and active header navigation under both root and subdirectory URLs.
 - The workflow builds and runs the export checks before deployment. Export checks resolve all local page, image, script, and font references after removing the configured hosting prefix.
 - Canonical and WhatsApp product URLs are supplied via `NEXT_PUBLIC_SITE_URL`. Search indexing remains disabled until the Maps check is completed.
+- The GitHub Pages build passed locally, including the full export verification under `/vegmax/`.
+- Publishing is currently blocked: local Git's `AwaizMd` account was denied push access (HTTP 403), and the connected GitHub integration rejected Contents writes with `Resource not accessible by integration` (HTTP 403). No remote source commit or deployment is claimed.

@@ -62,9 +62,9 @@ Upload the contents of `out/` to a static host. Build command for an indexed rel
 
 Repository: https://github.com/coderxplr-dev/vegmax
 
-Deployment URL: https://coderxplr-dev.github.io/vegmax/
+Intended deployment URL: https://coderxplr-dev.github.io/vegmax/
 
-The GitHub Actions workflow in `.github/workflows/deploy.yml` builds, verifies, and deploys pushes to `main`. It sets `NEXT_PUBLIC_BASE_PATH=/vegmax` and `NEXT_PUBLIC_SITE_URL=https://coderxplr-dev.github.io/vegmax`. Normal local builds leave the base path empty. Images use the shared `assetPath` helper, while Next.js handles page links and locally bundled fonts.
+The GitHub Actions workflow in `.github/workflows/deploy.yml` builds, verifies, and deploys pushes to `main`. For first-time setup, enable GitHub Pages with the source set to **GitHub Actions** in the repository settings. It sets `NEXT_PUBLIC_BASE_PATH=/vegmax` and `NEXT_PUBLIC_SITE_URL=https://coderxplr-dev.github.io/vegmax`. Normal local builds leave the base path empty. Images use the shared `assetPath` helper, while Next.js handles page links and locally bundled fonts.
 
 This initial online deployment retains the preview's search-indexing protection until the supplied Maps destination is owner-confirmed. Its canonical and product enquiry URLs use the deployment URL. After verifying the listing, set `mapsOwnerConfirmed` in `src/lib/business.ts` to `true` and push to enable indexing and the sitemap. Deploying this preview does not assert that the Maps check has been completed.
 
