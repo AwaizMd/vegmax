@@ -378,15 +378,15 @@ Changes: Resized and converted to WebP; representative product image
 
 ## /images/green-capsicum.webp
 
-Source: https://commons.wikimedia.org/wiki/File:Chopped_Green_Bell_Pepper.jpg
+Source: https://commons.wikimedia.org/wiki/File:Green_Bell_Pepper_(53630132710).jpg
 
-Original: Chopped Green Bell Pepper.jpg
+Original: Green Bell Pepper (53630132710).jpg
 
 Author: Alabama Extension
 
 License: CC0 (http://creativecommons.org/publicdomain/zero/1.0/deed.en)
 
-Changes: Resized and converted to WebP; representative product image
+Changes: Cropped, resized and converted to WebP; representative product image
 
 ## /images/coriander-leaves.webp
 

@@ -305,13 +305,13 @@
   },
   {
     "asset": "/images/green-capsicum.webp",
-    "source": "https://commons.wikimedia.org/wiki/File:Chopped_Green_Bell_Pepper.jpg",
-    "originalFilename": "Chopped Green Bell Pepper.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Green_Bell_Pepper_(53630132710).jpg",
+    "originalFilename": "Green Bell Pepper (53630132710).jpg",
     "sourceSet": 0,
     "license": "CC0",
     "author": "Alabama Extension",
     "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "modifications": "Resized and converted to WebP; representative product image"
+    "modifications": "Cropped, resized and converted to WebP; representative product image"
   },
   {
     "asset": "/images/coriander-leaves.webp",
