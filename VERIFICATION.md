@@ -1,4 +1,16 @@
-# Verification — 15 October 2026 catalogue update
+# Verification — catalogue updates
+
+## 16 October 2026 — bill catalogue expansion
+
+- Added all 33 missing bill items, including regular green chillies, for 50 products across seven categories.
+- Added Everyday Vegetables, Fruits & Coconut, and Dairy categories; existing product photos and galleries remain in place.
+- Added 33 representative Wikimedia Commons photos with source, author, license, and modification records in the public manifest, asset documentation, and credits page.
+- Inspected contact sheets of all added images and replaced unsuitable images of mint, ginger, and green capsicum. Reference photos are identified on product detail pages.
+- Final static build and TypeScript checking passed. Export verification passed for 64 public routes, 59 catalogue photographs, 2,182 internal links, metadata, calls, WhatsApp messages, hours, and static assets.
+- GitHub Actions repeats the build and verification with the `/vegmax` deployment prefix before publishing.
+- No fresh interactive browser/responsive visual pass, phone call, or WhatsApp message is claimed. Search indexing remains disabled pending the existing Maps confirmation.
+
+## 15 October 2026 — supplied photo catalogue
 
 Passed:
 

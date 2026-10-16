@@ -222,5 +222,335 @@
     "sourceSet": 1,
     "license": "User-supplied for use on this website",
     "modifications": "Resized and converted to WebP; background people cropped out"
+  },
+  {
+    "asset": "/images/banana-leaves.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Banana-leaf-1.JPG",
+    "originalFilename": "Banana-leaf-1.JPG",
+    "sourceSet": 0,
+    "license": "CC BY-SA 2.5",
+    "author": "Ted Garvin",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/banana.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Bunch_of_bananas_on_sale.jpg",
+    "originalFilename": "Bunch of bananas on sale.jpg",
+    "sourceSet": 0,
+    "license": "CC0",
+    "author": "Wilfredor",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/beetroot.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Detroitdarkredbeets.png",
+    "originalFilename": "Detroitdarkredbeets.png",
+    "sourceSet": 0,
+    "license": "CC BY-SA 3.0",
+    "author": "BriannaWalther",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/beans.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:CDC_greenbean.jpg",
+    "originalFilename": "CDC greenbean.jpg",
+    "sourceSet": 0,
+    "license": "Public domain",
+    "author": "",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/brinjal.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Solanum_melongena_24_08_2012_(1).JPG",
+    "originalFilename": "Solanum melongena 24 08 2012 (1).JPG",
+    "sourceSet": 0,
+    "license": "CC BY-SA 3.0",
+    "author": "Joydeep",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/carrot.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg",
+    "originalFilename": "Vegetable-Carrot-Bundle-wStalks.jpg",
+    "sourceSet": 0,
+    "license": "Public domain",
+    "author": "Evan-Amos",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/green-cabbage.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Cabbage.jpg",
+    "originalFilename": "Cabbage.jpg",
+    "sourceSet": 0,
+    "license": "Public domain",
+    "author": "Bill Tarpenning",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/cauliflower.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Chou-fleur_02.jpg",
+    "originalFilename": "Chou-fleur 02.jpg",
+    "sourceSet": 0,
+    "license": "CC BY-SA 3.0",
+    "author": "Coyau",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/green-capsicum.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Chopped_Green_Bell_Pepper.jpg",
+    "originalFilename": "Chopped Green Bell Pepper.jpg",
+    "sourceSet": 0,
+    "license": "CC0",
+    "author": "Alabama Extension",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/coriander-leaves.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:A_scene_of_Coriander_leaves.JPG",
+    "originalFilename": "A scene of Coriander leaves.JPG",
+    "sourceSet": 0,
+    "license": "CC BY-SA 3.0",
+    "author": "Thamizhpparithi Maari",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/curry-leaves.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Fresh_curry_leaves.jpg",
+    "originalFilename": "Fresh curry leaves.jpg",
+    "sourceSet": 0,
+    "license": "CC0",
+    "author": "Nithyashree Balasupramaniyan",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/coconut.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Coconuts_-_single_and_cracked_open.jpg",
+    "originalFilename": "Coconuts - single and cracked open.jpg",
+    "sourceSet": 0,
+    "license": "CC BY-SA 4.0",
+    "author": "Ivar Leidus",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/ginger.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Ginger_Root_(Zingiber_officinale).jpg",
+    "originalFilename": "Ginger Root (Zingiber officinale).jpg",
+    "sourceSet": 0,
+    "license": "CC0",
+    "author": "Rubel Das",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/garlic.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Garlic_bulbs_and_cloves.jpg",
+    "originalFilename": "Garlic bulbs and cloves.jpg",
+    "sourceSet": 0,
+    "license": "CC BY-SA 4.0",
+    "author": "Ivar Leidus",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/green-peas.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Peas_in_pods_-_Studio.jpg",
+    "originalFilename": "Peas in pods - Studio.jpg",
+    "sourceSet": 0,
+    "license": "CC BY-SA 3.0",
+    "author": "Bill Ebbesen",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/lady-finger.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Okra_Aug_25_2012.JPG",
+    "originalFilename": "Hong Kong Okra Aug 25 2012.JPG",
+    "sourceSet": 0,
+    "license": "CC BY-SA 3.0",
+    "author": "Earth100",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/bottle-gourd.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Courge_encore_verte.jpg",
+    "originalFilename": "Courge encore verte.jpg",
+    "sourceSet": 0,
+    "license": "CC BY-SA 3.0",
+    "author": "撮影者はカールおじさんです。",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/lemon.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:P1030323.JPG",
+    "originalFilename": "P1030323.JPG",
+    "sourceSet": 0,
+    "license": "CC BY-SA 4.0",
+    "author": "Elena Chochkova",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/red-lettuce.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_leaf_lettuce_J1.JPG",
+    "originalFilename": "Red leaf lettuce J1.JPG",
+    "sourceSet": 0,
+    "license": "CC BY-SA 3.0",
+    "author": "Jamain",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/green-lettuce.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Buttercrunch_butterhead_lettuce.jpg",
+    "originalFilename": "Buttercrunch butterhead lettuce.jpg",
+    "sourceSet": 0,
+    "license": "CC BY-SA 4.0",
+    "author": "Geo Lightspeed7",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/mint.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Fresh_Mint_leaves.jpg",
+    "originalFilename": "Fresh Mint leaves.jpg",
+    "sourceSet": 0,
+    "license": "CC BY-SA 4.0",
+    "author": "Mangosapiens",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/mushroom.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:ChampignonMushroom.jpg",
+    "originalFilename": "ChampignonMushroom.jpg",
+    "sourceSet": 0,
+    "license": "CC BY-SA 3.0",
+    "author": "chris_73",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/onion.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg",
+    "originalFilename": "Mixed onions.jpg",
+    "sourceSet": 0,
+    "license": "CC BY-SA 3.0",
+    "author": "Colin",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/potato.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Patates.jpg",
+    "originalFilename": "Patates.jpg",
+    "sourceSet": 0,
+    "license": "Public domain",
+    "author": "Scott Bauer, USDA ARS",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/papaya.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Papaya_-_longitudinal_section.jpg",
+    "originalFilename": "Papaya - longitudinal section.jpg",
+    "sourceSet": 0,
+    "license": "CC BY-SA 4.0",
+    "author": "Ivar Leidus",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/paneer.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Panir_Paneer_Indian_cheese_fresh.jpg",
+    "originalFilename": "Panir Paneer Indian cheese fresh.jpg",
+    "sourceSet": 0,
+    "license": "CC BY 2.0 de",
+    "author": "Sonja Pauen - Stanhopea",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/de/deed.en",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/spinach.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Spinach_Plant_Nourishment_Meal_Fresh_Healthy_Bio.jpg",
+    "originalFilename": "Spinach Plant Nourishment Meal Fresh Healthy Bio.jpg",
+    "sourceSet": 0,
+    "license": "CC0",
+    "author": "ThiloBecker",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/spring-onion.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:CSA-Red-Spring-Onions.jpg",
+    "originalFilename": "CSA-Red-Spring-Onions.jpg",
+    "sourceSet": 0,
+    "license": "Public domain",
+    "author": "Evan-Amos",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/salan-chillies.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Cubanelle_Peppers.jpg",
+    "originalFilename": "Cubanelle Peppers.jpg",
+    "sourceSet": 0,
+    "license": "Public domain",
+    "author": "",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/sweetcorn.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:VegCorn.jpg",
+    "originalFilename": "VegCorn.jpg",
+    "sourceSet": 0,
+    "license": "Public domain",
+    "author": "The original Uploader was wstoakLL at English Wikipedia",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/tomato-bangalore.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+    "originalFilename": "Tomato je.jpg",
+    "sourceSet": 0,
+    "license": "CC BY-SA 3.0",
+    "author": "Softeis",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/tomato-local.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:Tomatoes_for_sale_in_France.jpg",
+    "originalFilename": "Tomatoes for sale in France.jpg",
+    "sourceSet": 0,
+    "license": "CC BY-SA 3.0",
+    "author": "FrogsLegs71",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Resized and converted to WebP; representative product image"
+  },
+  {
+    "asset": "/images/green-chillies.webp",
+    "source": "https://commons.wikimedia.org/wiki/File:%EC%B2%AD%EC%96%91%EA%B3%A0%EC%B6%943.jpg",
+    "originalFilename": "청양고추3.jpg",
+    "sourceSet": 0,
+    "license": "CC BY-SA 3.0",
+    "author": "Chlekgus9",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "modifications": "Resized and converted to WebP; representative product image"
   }
 ]

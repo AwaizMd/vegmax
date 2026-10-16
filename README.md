@@ -25,7 +25,7 @@ Static preview: http://127.0.0.1:4173. `npm start` serves `out/` without a Next.
 
 ## Current catalogue
 
-The old stock-photo catalogue has been replaced with **17 products using all 26 owner-supplied photographs**. Repeat photographs are grouped into galleries on the relevant product pages.
+The old stock-photo catalogue has been replaced with **50 products across seven categories, using all 26 owner-supplied photographs and 33 freely licensed representative images**. Repeat photographs are grouped into galleries on the relevant product pages.
 
 - Red capsicum and yellow capsicum.
 - Green zucchini and yellow zucchini.
@@ -79,7 +79,7 @@ Dependencies, `.next/`, `out/`, `.deploy/`, local environment files, and TypeScr
 - Styles: `src/app/globals.css`.
 - All website images: `public/images/`, with provenance in `public/image-sources.json`, `ASSET-SOURCES.md`, and `/credits/`.
 
-Original photographs in the two supplied Downloads folders remain untouched. Website copies are optimized as WebP. The WhatsApp interface is removed from the alternate cabbage image; background people are omitted from the alternate red capsicum image. The hero and bulk image reuse the supplied capsicum photographs. All previous stock photos have been removed from the source and final export.
+Original photographs in the two supplied Downloads folders remain untouched. Website copies are optimized as WebP. The WhatsApp interface is removed from the alternate cabbage image; background people are omitted from the alternate red capsicum image. The hero and bulk image reuse the supplied capsicum photographs. The original stock catalogue was removed; the 16 October expansion adds 33 separately credited representative photographs from Wikimedia Commons. Attribution and license details are in `public/image-sources.json`, `ASSET-SOURCES.md`, and the website credits page.
 
 To re-import the same photos while the original Downloads paths exist:
 
@@ -87,13 +87,13 @@ To re-import the same photos while the original Downloads paths exist:
 node scripts/import-owner-photos.mjs
 ```
 
-This is optional; a normal build uses the already bundled images. Do not run it for a different batch without updating its explicit file mapping.
+This is optional; a normal build uses the already bundled images. The owner-photo import is for the original batch only and rewrites its manifest; preserve the additional Wikimedia source records before rerunning it.
 
 Fraunces and Manrope are locally hosted under SIL Open Font License 1.1; licences in `public/fonts/`. The adapted Animate UI component uses MIT + Commons Clause; see `THIRD-PARTY-LICENSES.md`.
 
 ## Verification
 
-`npm run verify` checks all public exported routes, local images and fonts, internal links, unique titles/descriptions/H1, all 26 supplied photos across 17 products, related-product targets, per-product WhatsApp encoding, correct primary/alternate call links, opening hours, removed stock products/assets, preview robots, and the static 404. Pure message checks cover optional quantities, optional details, absolute product URLs under a synthetic production configuration, and safe missing-contact behavior.
+`npm run verify` checks all public exported routes, local images and fonts, internal links, unique titles/descriptions/H1, all 59 catalogue photos across 50 products, related-product targets, per-product WhatsApp encoding, correct primary/alternate call links, opening hours, removed stock products/assets, preview robots, and the static 404. Pure message checks cover optional quantities, optional details, absolute product URLs under a synthetic production configuration, and safe missing-contact behavior.
 
 The bulk form stores no personal data in local storage and provides validation, a message preview, and copy functionality. Sending happens in WhatsApp. Core catalogue content is build-rendered HTML; mobile navigation, filtering, and enquiry building use small client components. GSAP, CSS, and the adapted accordion implement reduced-motion support.
 
