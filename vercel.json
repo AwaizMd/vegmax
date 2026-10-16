@@ -2,8 +2,5 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "nextjs",
   "buildCommand": "npm run build",
-  "installCommand": "npm ci",
-  "redirects": [
-    { "source": "/:path*", "has": [{ "type": "host", "value": "www.vegmax.in" }], "destination": "https://vegmax.in/:path*", "permanent": true }
-  ]
+  "installCommand": "npm ci"
 }
